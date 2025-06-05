@@ -1,17 +1,17 @@
 .py-base {
-  padding-block: var-(--py-base);
+  padding-block: var(--py-base);
 }
 
 .py-lg {
-  padding-block: var-(--py-lg);
+  padding-block: var(--py-lg);
 }
 
 .py-xl {
-  padding-block: var-(--py-xl); /*para margens no Y*/
+  padding-block: var(--py-xl); /*para margens no Y*/
 }
 
 .px-lg {
-  padding-inline: var-(--px-lg); /*para margens no X*/
+  padding-inline: var(--px-lg); /*para margens no X*/
 }
 
 .container {
